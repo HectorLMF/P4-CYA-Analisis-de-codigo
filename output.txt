@@ -1,0 +1,29 @@
+Variables:
+Número de variables int: 2
+Número de variables double: 1
+-----------------------------
+Type: int, Name: factorial, Line: 21, Initialized
+Type: double, Name: test, Line: 22, Initialized
+Type: int, Name: limit, Line: 32, Not Initialized
+-----------------------------
+Bucles:
+Número de bucles for: 2
+Número de bucles while: 0
+-----------------------------
+Loop Type: for, Line: 23
+Loop Type: for, Line: 35
+-----------------------------
+Comentarios:
+Multiline comment from line 0 to 9: 
+ * Universidad de La Laguna
+ * Escuela Superior de Ingeniería y Tecnología
+ * Informática Básica
+ *
+ * @brief Ejercicios de programación
+ * Versión 1: Función factorial
+ *
+ * @see https://github.com/IB-2023-2024/IB-class-code-examples/
+ 
+Single-line comment from line 14 to 14:  Devuelve el factorial del número pasado como argumento
+
+¿Main presente?: si
